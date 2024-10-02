@@ -1,5 +1,9 @@
 const Monitoring = () => {
-  return <div>Monitoring</div>;
+  return (
+    <div>
+      <h1>Monitoring</h1>
+    </div>
+  );
 };
 
 export default Monitoring;
